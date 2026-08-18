@@ -430,7 +430,7 @@ This project is licensed under the MIT License.
 
 **Md. Kaif**
 
-BTech Computer Science & Engineering
+BTech Information Technology
 
 GitHub: [@Md-Kaif-coder](https://github.com/Md-Kaif-coder)
 
